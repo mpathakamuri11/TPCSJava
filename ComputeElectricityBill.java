@@ -40,7 +40,7 @@ class ComputeElectricityBill {
 	// Driver Code 
 	public static void main(String args[]) 
 	{ 
-		int units = 250; 
+		int units = 300; 
 
 		System.out.println( 
 			calculateBill(units)); 
